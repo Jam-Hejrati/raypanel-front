@@ -1,0 +1,9 @@
+.sectionBackground {
+  background: url('../../assets/image/world-map.png');
+  background-size: contain;
+}
+
+.inValid input{
+  background: #f89e9e;
+  border: 1px solid #ff0000;
+}
